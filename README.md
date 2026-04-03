@@ -4,7 +4,7 @@
 
 This project explores how large language models (LLMs) can help robots adapt to user preferences while still staying within strict safety constraints. It is inspired by the Coloring Between the Lines (CBTL) framework, where robots personalize behavior only within a “safe null space.”
 
-Here is the link to CBTL github: --
+Here is the link to CBTL github: https://github.com/tomsilver/multitask-personalization.git
 
 The goal is to build a simple caregiving-style setup where a robot learns what a user prefers (like positioning) through feedback, without ever violating safety rules. 
 
